@@ -1,0 +1,11 @@
+{
+    "name": "HonorableBiters",
+    "version": "0.1.2",
+    "title": "Honorable Biters",
+    "author": "Karl",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "Biters are friendly to factions with 0 players."
+}
